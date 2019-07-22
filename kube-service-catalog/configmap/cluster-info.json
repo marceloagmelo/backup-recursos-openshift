@@ -1,0 +1,1 @@
+{"kind":"ConfigMap","apiVersion":"v1","metadata":{"name":"cluster-info","namespace":"kube-service-catalog","selfLink":"/api/v1/namespaces/kube-service-catalog/configmaps/cluster-info","uid":"ba559674-a716-11e9-9411-42010a9e0002","resourceVersion":"3193","creationTimestamp":"2019-07-15T15:39:26Z"},"data":{"id":"ba555ce1-a716-11e9-93a9-0a580a800013"}}
